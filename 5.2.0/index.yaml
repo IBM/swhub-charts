@@ -9,7 +9,7 @@ entries:
     name: cpd-platform
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/cpd-platform-5.2.0+20250302.185408.38.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/cpd-platform-5.2.0+20250302.185408.38.tgz
     version: 5.2.0+20250302.185408.38
   cpd-platform-cluster-scoped:
   - apiVersion: v2
@@ -20,7 +20,7 @@ entries:
     name: cpd-platform-cluster-scoped
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/cpd-platform-cluster-scoped-5.2.0+20250302.185408.38.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/cpd-platform-cluster-scoped-5.2.0+20250302.185408.38.tgz
     version: 5.2.0+20250302.185408.38
   ibm-common-service-operator:
   - apiVersion: v2
@@ -31,7 +31,7 @@ entries:
     name: ibm-common-service-operator
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/ibm-common-service-operator-4.12.0+20250307.205212.0.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/ibm-common-service-operator-4.12.0+20250307.205212.0.tgz
     version: 4.12.0+20250307.205212.0
   ibm-common-service-operator-cluster-scoped:
   - apiVersion: v2
@@ -42,7 +42,7 @@ entries:
     name: ibm-common-service-operator-cluster-scoped
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/ibm-common-service-operator-cluster-scoped-4.12.0+20250307.205212.0.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/ibm-common-service-operator-cluster-scoped-4.12.0+20250307.205212.0.tgz
     version: 4.12.0+20250307.205212.0
   ibm-commonui-operator-app:
   - apiVersion: v2
@@ -53,7 +53,7 @@ entries:
     name: ibm-commonui-operator-app
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/ibm-commonui-operator-app-4.8.0+20250306.114122.0.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/ibm-commonui-operator-app-4.8.0+20250306.114122.0.tgz
     version: 4.8.0+20250306.114122.0
   ibm-commonui-operator-app-cluster-scoped:
   - apiVersion: v2
@@ -64,7 +64,7 @@ entries:
     name: ibm-commonui-operator-app-cluster-scoped
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/ibm-commonui-operator-app-cluster-scoped-4.8.0+20250306.114122.0.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/ibm-commonui-operator-app-cluster-scoped-4.8.0+20250306.114122.0.tgz
     version: 4.8.0+20250306.114122.0
   ibm-iam-operator:
   - apiVersion: v2
@@ -77,7 +77,7 @@ entries:
     - https://github.com/IBM/ibm-iam-operator/
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/ibm-iam-operator-4.11.0+20250307.114037.0.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/ibm-iam-operator-4.11.0+20250307.114037.0.tgz
     version: 4.11.0+20250307.114037.0
   ibm-iam-operator-cluster-scoped:
   - apiVersion: v2
@@ -90,7 +90,7 @@ entries:
     - https://github.com/IBM/ibm-iam-operator/
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/ibm-iam-operator-cluster-scoped-4.11.0+20250307.114037.0.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/ibm-iam-operator-cluster-scoped-4.11.0+20250307.114037.0.tgz
     version: 4.11.0+20250307.114037.0
   ibm-namespace-scope-operator:
   - apiVersion: v2
@@ -103,7 +103,7 @@ entries:
     - https://github.com/IBM/ibm-namespace-scope-operator
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/ibm-namespace-scope-operator-4.2.13+20250227.220734.0.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/ibm-namespace-scope-operator-4.2.13+20250227.220734.0.tgz
     version: 4.2.13+20250227.220734.0
   ibm-namespace-scope-operator-cluster-scoped:
   - apiVersion: v2
@@ -116,7 +116,7 @@ entries:
     - https://github.com/IBM/ibm-namespace-scope-operator
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/ibm-namespace-scope-operator-cluster-scoped-4.2.13+20250227.220734.0.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/ibm-namespace-scope-operator-cluster-scoped-4.2.13+20250227.220734.0.tgz
     version: 4.2.13+20250227.220734.0
   ibm-odlm:
   - apiVersion: v2
@@ -127,7 +127,7 @@ entries:
     name: ibm-odlm
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/ibm-odlm-4.5.0+20250304.114101.0.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/ibm-odlm-4.5.0+20250304.114101.0.tgz
     version: 4.5.0+20250304.114101.0
   ibm-odlm-cluster-scoped:
   - apiVersion: v2
@@ -138,7 +138,7 @@ entries:
     name: ibm-odlm-cluster-scoped
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/ibm-odlm-cluster-scoped-4.5.0+20250304.114101.0.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/ibm-odlm-cluster-scoped-4.5.0+20250304.114101.0.tgz
     version: 4.5.0+20250304.114101.0
   planning_analytics:
   - apiVersion: v2
@@ -149,7 +149,7 @@ entries:
     name: planning_analytics
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/planning_analytics-5.2.0+20250310.114913.12.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/planning_analytics-5.2.0+20250310.114913.12.tgz
     version: 5.2.0+20250310.114913.12
   planning_analytics-cluster-scoped:
   - apiVersion: v2
@@ -160,7 +160,7 @@ entries:
     name: planning_analytics-cluster-scoped
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/planning_analytics-cluster-scoped-5.2.0+20250310.114913.12.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/planning_analytics-cluster-scoped-5.2.0+20250310.114913.12.tgz
     version: 5.2.0+20250310.114913.12
   platform-config:
   - apiVersion: v2
@@ -171,7 +171,7 @@ entries:
     name: platform-config
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/platform-config-5.2.0+20250310.084435.2.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/platform-config-5.2.0+20250310.084435.2.tgz
     version: 5.2.0+20250310.084435.2
   postgresql:
   - apiVersion: v2
@@ -185,7 +185,7 @@ entries:
     - https://github.com/EnterpriseDB/edb-postgres-for-kubernetes-charts
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/postgresql-4.33.0+20250307.124001.7.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/postgresql-4.33.0+20250307.124001.7.tgz
     version: 4.33.0+20250307.124001.7
   postgresql-cluster-scoped:
   - apiVersion: v2
@@ -199,7 +199,7 @@ entries:
     - https://github.com/EnterpriseDB/edb-postgres-for-kubernetes-charts
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/postgresql-cluster-scoped-4.33.0+20250307.124001.7.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/postgresql-cluster-scoped-4.33.0+20250307.124001.7.tgz
     version: 4.33.0+20250307.124001.7
   zen:
   - apiVersion: v2
@@ -210,7 +210,7 @@ entries:
     name: zen
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/zen-6.2.0+20250308.171113.91.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/zen-6.2.0+20250308.171113.91.tgz
     version: 6.2.0+20250308.171113.91
   zen-cluster-scoped:
   - apiVersion: v2
@@ -221,6 +221,6 @@ entries:
     name: zen-cluster-scoped
     type: application
     urls:
-    - https://raw.github.ibm.com/IBMSoftwareHub/charts/poc/5.2.0/zen-cluster-scoped-6.2.0+20250308.171113.91.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/zen-cluster-scoped-6.2.0+20250308.171113.91.tgz
     version: 6.2.0+20250308.171113.91
 generated: "2025-03-10T14:26:34.038336758-07:00"
