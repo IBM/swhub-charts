@@ -103,7 +103,7 @@ entries:
     - https://github.com/IBM/ibm-namespace-scope-operator
     type: application
     urls:
-    - https://raw.github.com/IBM/swhub-charts/poc/poc/5.2.0/ibm-namespace-scope-operator-4.2.13+20250227.220734.0.tgz
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/ibm-namespace-scope-operator-4.2.13+20250227.220734.0.tgz
     version: 4.2.13+20250227.220734.0
   ibm-namespace-scope-operator-cluster-scoped:
   - apiVersion: v2
