@@ -1,5 +1,3 @@
-**TODO**: confirm GA helm repo URL
-
 ## Disclaimer
 
 The feature and procedures described below are from a tech preview, for fresh install as a proof of concept (POC). It is not intended for production environment, nor does it come with support for upgrade to a future release version.
@@ -44,7 +42,7 @@ If your cluster is in air gapped environment, complete the steps listed in `imag
    imagePullPrefix=<private-registry-url>
    imagePullSecret=ibm-entitlement-key #update this value if the pull secret is not the same
    argocdNS=<openshift gitops namespace> #default is openshift-gitops
-   helmRepoURL=<helm repo url>
+   helmRepoURL=<helm repo url> #default is https://raw.githubusercontent.com/IBM/swhub-charts/refs/heads/poc/5.2.0 if using this repo
    installConfigImageDigest="sha256:f97f1b364a27acfe08b1c80d9ce91c25f07e6005a7ba821abf164c8e38925a04"
    ```
 4. Connect ArgoCD to the helm chart repo. See https://argo-cd.readthedocs.io/en/stable/user-guide/private-repositories/.
