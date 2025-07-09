@@ -92,6 +92,16 @@ entries:
     urls:
     - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/ibm-iam-operator-cluster-scoped-4.11.0+20250307.114037.0.tgz
     version: 4.11.0+20250307.114037.0
+  ibm-licensing-cluster-scoped:
+  - apiVersion: v2
+    created: "2025-06-12T09:41:34.775569069-07:00"
+    description: A Helm chart for IBM License Service installation
+    digest: 6211084338421a73d74f81f2737a34a8c853801208c91f7c1796b169f2114a9a
+    name: ibm-licensing-cluster-scoped
+    type: application
+    urls:
+    - https://raw.github.com/IBM/swhub-charts/poc/5.2.0/ibm-licensing-cluster-scoped-4.2.16+20250604.153216.0.tgz
+    version: 4.2.16+20250604.153216.0
   ibm-namespace-scope-operator:
   - apiVersion: v2
     appVersion: 4.2.13
